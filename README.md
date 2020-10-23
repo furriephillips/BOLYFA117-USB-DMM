@@ -1,5 +1,5 @@
 # BOLYFA117-USB-DMM
-USB serial interpreter for the BOLYFA 117 Digital MultiMeter
+USB serial interpreter for the BOLYFA 117 Digital MultiMeter (https://amzn.to/2Hq01Nm)
 
 I love this multimeter; its look, it's feel, the fab screen & backlight, and quite importantly, the price - it's in that perfect, let's give it a chance - it's inexpensive enough that even if the USB functionality is no good, I still have a decent looking & primarily functional multimeter.
 
